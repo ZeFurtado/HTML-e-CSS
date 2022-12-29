@@ -1,0 +1,21 @@
+.apple-text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    font-size: 25px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.shop-now
+{
+    cursor: pointer;
+}
+
+.shop-now:hover
+{
+    text-decoration: underline;
+}
